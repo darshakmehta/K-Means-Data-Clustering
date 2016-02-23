@@ -1,0 +1,28 @@
+/*.one,.two,.three,.four,.five
+{
+	display:none;
+}*/
+/*.one,.two,.three,.four,.five :hover
+{
+	color:yellow;
+}*/
+.one:hover
+{
+	cursor:pointer;
+}
+.two:hover
+{
+	cursor:pointer;
+}
+.three:hover
+{
+	cursor:pointer;
+}
+.four:hover
+{
+	cursor: pointer;
+}
+.five:hover
+{
+	cursor: pointer;
+}
